@@ -1,0 +1,9 @@
+# local tooling
+.claude/
+
+# promo videos and thumbnails (large media, not part of the site)
+promo-video/
+
+# OS files
+Thumbs.db
+.DS_Store
